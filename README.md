@@ -1,2 +1,1 @@
-# astar
-A* pathfinding algorithm
+# A* pathfinding algorithm
